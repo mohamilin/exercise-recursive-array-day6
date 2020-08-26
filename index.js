@@ -16,7 +16,7 @@ function genap(param) {
         genap(param -2);
         console.log(param)
    } else {
-       genap(param-3);
+       genap(param-2);
         console.log(param-1);
    }
 }
