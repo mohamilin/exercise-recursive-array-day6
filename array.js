@@ -60,7 +60,7 @@ Program akan mengembalikan nilai TRUE or FALSE
 */
 
 let arrayOne = ['Math', 'English', 'Programming'];
-let arrayTwo = ['dsd', 'sdsd', 'dsdsd'];
+let arrayTwo = ['Geo', 'Spanish', 'Programming'];
 
 let check = true;
 
